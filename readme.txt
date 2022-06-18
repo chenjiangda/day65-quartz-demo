@@ -1,0 +1,3 @@
+1.原生写法了解即可，以后和spring整合以后都是写配置：HelloQuartz和QuartzTest两个类演示了原生Quartz的使用
+
+2.Quartz和Spring整合：见类
